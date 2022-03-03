@@ -1,7 +1,48 @@
 ---
-title: "Welcome to my web site"
+title: ""
 output: html_document
 ---
 
+Pierre BADY
 
-index
+
+# Present Affiliations
+
+ * Translational bioinformatics and statistics (TBS), Swiss Institute for Bioinformatics, 1005 Lausanne, Switzerland
+ * Bioinformatics Core Facility (BCF), Swiss Institute for Bioinformatics, 1005 Lausanne, Switzerland
+ * Neurosurgery, Lausanne University Hospital (CHUV), 1011 Lausanne, Switzerland
+ * Neuroscience Research Center, Lausanne University Hospital, 1011 Lausanne, Switzerland
+
+# Brief CV
+
+ * Oct 2009-presently: Biostatistician/Biometrician/Data scientist, CHUV, Bioinformatics Core Facility, Swiss Institute of Bioinformatics (Lausanne, Switzerland)
+
+   * Jan 2007-Sept 2009: Biostatistician/Biometrician, Agricultural and Environmental Engineering Research (CEMAGREF, Governmental Agency, Aix-En-Provence & Anthony, France)
+
+ * Aug 2005–Nov 2006: Biostatistician/Biometrician, Clinical Epidemiology Centrer (CEPIC, IUMSP, CHUV), University Hospital (Lausanne, Switzerland).
+
+ * Jun 2005–Jul 2005: Biostatistician/Biometrician, Contract with environmental consulting agency (ARALEP, Lyon, France). 
+
+ * Oct 2001-Jun 2005: PhD Researcher, University of Sciences, Claude Bernard Lyon 1, UMR-CNRS 5023, France.
+
+ * Sept 2000-Sept 2001: Master’s student, University of Sciences, Claude Bernard Lyon 1, UMR-CNRS 5023, France.
+
+
+# Teaching and Training
+ * Dolédec S. & Bady P. (2004) Atelier d’analyse de données écologiques avec le logiciel ADE-4, LECA, Grenoble, France.
+ 
+ * Teaching Assistant in statistic (2006), descriptive and inferential analyses with STATA (e.g. graphical representations, classical test, linear regression), CEPIC, MRC, Lausanne.
+ 
+ * Teaching Assistant in statistic (2010), Introduction to statistics for biologists proposed by Schütz F., Geneva, 25-29 February 2010.
+ 
+ * Bady P. (2010) Introduction to Generalized Linear model with R, in Advanced statistics 2010: Statistical modeling, Schütz F., Goldstein D. and Bady P., BCF-SIB, Lausanne, 18-22 October 2010
+ 
+ * Teaching Assistant in statistic (2011), Introduction to statistics for biologists proposed by Schütz F., Geneva, 7-11 February 2011.
+ 
+ * Bady P. (2012) Introduction to Generalized Linear model with R, in Advanced statistics 2012: Statistical modeling, Schütz F., Goldstein D. and Bady P., BCF-SIB, Lausanne, 6-10 February 2012.
+
+# Scientific Publications
+ORCID author ID: http://orcid.org/0000-0003-1398-4689 
+
+# Contact
+pierre.bady (at) unil.ch
