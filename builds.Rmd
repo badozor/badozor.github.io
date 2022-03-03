@@ -4,69 +4,26 @@ output: html_document
 ---
 
 
-
-
-# **![](image/Rlogo.png){width=5%} package modtools**
-Additional tools for model assessment modtools (alpha version): [modtools](https://github.com/badozor/modtools)
-
-# **![](image/Rlogo.png){width=5%} package plstools**
-Partial Least Squares and Generalized Partial Least Squares models based on NIPALS algorithm plstools (alpha version): [plstools](https://github.com/badozor/plstools)
-
-# **![](image/Rlogo.png){width=5%} package ktabtools**
-Additional R functions related to K-table analyses  ktabtools(in construction).
-[ktabtools](https://github.com/badozor/ktabtools)
-
-# **![](image/Rlogo.png){width=5%} package strtools**
-Tools for the analysis of STR fingerprinting data  strtools (in construction): **strtools**
-
-# **![](image/Rlogo.png){width=5%} package methyltools**
-Tools for the analysis of DNA methylation data (Infinium 27k and 450k)  methyltools(alpha version).
-[methyltools](https://github.com/badozor/methyltools)
-
-
-# **![](image/Rlogo.png){width=5%} package mgmtstp27**
-Prediction of DNA methylation state of MGMT promoter based on HM-450K and HM-27K infinium platforms (from Illumina Company)
-
-**Warning!** The R package mgmtstp27 is still in development and the documentation need some corrections (e.g. language, etc ...).
-
-## Installation
-To install this package, load the archive containing the package mgmtstp27 (see below), start R and enter:
-
-```{r eval=FALSE,echo=TRUE}
-install.packages("mgmtstp27_0.2.tar.gz",repos=NULL)
-install.packages("mgmtstp27_0.2.zip",repos=NULL)
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-## Documentation
-
- * Introduction to R package mgmtstp27 (version 0.1, in preparation): intromgmtstp27.pdf
- * Effect of normalization on the prediction of DNA methylation status of MGMT promoter: example with HM-450K  *  * Infinium data from TCGA and the R package mgmtstp27 (version 0.1, in preparation): docmgmtstp27.pdf
- * Prediction of the DNA methylation of MGMT with raw data (format IDAT) from HM-27k (version 0.1, in preparation): MgmtPredTCGA.pdf
-
-## Archives
-
-Follow Installation instructions to use this package in your R session
-    
- * Package Source: mgmtstp27_0.2.tar.gz (OLD version, see section "depository" for new version)
- * Windows Binary: mgmtstp27_0.2.zip (32- & 64-bit, OLD version, see section "depository" for new version)
- * Browse/checkout source: log
- * Manual: mgmtstp27.pdf
- * Depository: [mgmtstp27](https://github.com/badozor/mgmtstp27)
-
-Shiny application for R package mgmtstp27
-
- * Depository: github 
-
- 
-## References
-
- * **Bady, P.**, D. Sciuscio, A.-C. Diserens, J. Bloch, M. J. van den Bent, C. Marosi, P.-Y. Dietrich, M. Weller, L. Mariani, F. L. Heppner, D. R. McDonald, D. Lacombe, R. Stupp, M. Delorenzi, and M. E. Hegi. (2012). MGMT methylation analysis of glioblastoma on the Infinium methylation BeadChip identifies two distinct CpG regions associated with gene silencing and outcome, yielding a prediction model for comparisons across datasets, tumor grades, and CIMP-status. Acta Neuropathologica 124:547-560. PubMed
- 
- * **Bady P.**, Delorenzi M., Hegi M. (accepted) Sensitivity analysis of the MGMT-STP27 model and impact of genetic/epigenetic context to predict the MGMT methylation status in gliomas and other tumors, Journal of Molecular Diagnostics, 18 (3), 350-361. PubMed
+# **![](image/Rlogo.png){width=5%} packages**
 
 
-# **![](image/Rlogo.png){width=5%} package PBmisc**
-Contains many functions useful for statistical analyses, data manipulation and graphic representations (**in construction**): [PBmisc](https://github.com/badozor/PBmisc)
+```{r echo=FALSE}
+rpackages <- data.frame(
+  names=c("modtools","plstools","ktabtools","strtools","methyltools","PBmisc","mgmtstp27"),
+  description=c("Additional tools for model assessment modtools","Partial Least Squares and Generalized Partial Least Squares models based on NIPALS algorithm plstools","Additional R functions related to K-table analyses  ktabtools","Tools for the analysis of STR fingerprinting data  strtools","Tools for the analysis of DNA methylation data (Infinium 27k and 450k)  methyltools","Contains many functions useful for statistical analyses, data manipulation and graphic representations","Prediction of DNA methylation state of MGMT promoter based on HM-450K and HM-27K infinium platforms (from Illumina Company)"),
+  
+  version=c("[modtools](https://github.com/badozor/modtools)","[plstools](https://github.com/badozor/plstools)","[ktabtools](https://github.com/badozor/ktabtools)",NA,"[methyltools](https://github.com/badozor/methyltools)","[PBmisc](https://github.com/badozor/PBmisc)","[mgmtstp27](https://github.com/badozor/mgmtstp27)"),
+  links=c("0.1","0.1","0.1","0.1","0.1","in construction","0.6-3"))
+```
 
+
+
+```{r results='asis',echo=FALSE}
+knitr::kable(rpackages)
+```
 

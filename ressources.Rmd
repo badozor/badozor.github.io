@@ -3,13 +3,28 @@ title: "Ressources"
 output: html_document
 ---
 
-# Graphical representation for multidimensional analyses
+# **Graphical representation for multidimensional analyses**
 
 ggade4
 
 
-# Importation of pyrosequencing data with R and python
+# **Importation of pyrosequencing data with R and python**
 
 Tex document
 
 
+
+
+
+
+# **R package [mgmtstp27](https://github.com/badozor/mgmtstp27)**
+
+ * Documentation of R package mgmtstp27: [mgmtstp27](https://github.com/badozor/mgmtstp27/blob/master/trunk/Rdoc/mgmtstp27.pdf)
+ 
+ * Introduction to R package mgmtstp27 (version 0.1, in preparation): [intromgmtstp27.pdf](https://github.com/badozor/mgmtstp27/blob/master/trunk/Rdoc/intromgmtstp27.pdf)
+ 
+ * Effect of normalization on the prediction of DNA methylation status of MGMT promoter: example with HM-450K Infinium data from TCGA and the R package mgmtstp27 (version 0.1, in preparation): [docmgmtstp27.pdf](https://github.com/badozor/mgmtstp27/blob/master/trunk/Rdoc/docmgmtstp27.pdf)
+ 
+ * Prediction of the DNA methylation of MGMT with raw data (format IDAT) from HM-27k (version 0.1, in preparation): [MgmtPredTCGA.pdf](https://github.com/badozor/mgmtstp27/blob/master/trunk/Rdoc/MgmtPredTCGA.pdf)
+ 
+ 
