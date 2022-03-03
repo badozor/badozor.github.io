@@ -66,7 +66,7 @@ Shiny application for R package mgmtstp27
  * **Bady P.**, Delorenzi M., Hegi M. (accepted) Sensitivity analysis of the MGMT-STP27 model and impact of genetic/epigenetic context to predict the MGMT methylation status in gliomas and other tumors, Journal of Molecular Diagnostics, 18 (3), 350-361. PubMed
 
 
-
-
+# **R package PBmisc**
+Contains many functions useful for statistical analyses, data manipulation and graphic representations (**in construction**): [PBmisc](https://github.com/badozor/PBmisc)
 
 

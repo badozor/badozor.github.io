@@ -3,4 +3,13 @@ title: "Ressources"
 output: html_document
 ---
 
-resources
+# Graphical representation for multidimensional analyses
+
+ggade4
+
+
+# Importation of pyrosequencing data with R and python
+
+Tex document
+
+
