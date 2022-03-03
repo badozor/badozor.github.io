@@ -6,25 +6,25 @@ output: html_document
 
 
 
-# **R package modtools**
+# **![](image/Rlogo.png){width=5%} package modtools**
 Additional tools for model assessment modtools (alpha version): [modtools](https://github.com/badozor/modtools)
 
-# **R package plstools**
+# **![](image/Rlogo.png){width=5%} package plstools**
 Partial Least Squares and Generalized Partial Least Squares models based on NIPALS algorithm plstools (alpha version): [plstools](https://github.com/badozor/plstools)
 
-# **R package ktabtools**
+# **![](image/Rlogo.png){width=5%} package ktabtools**
 Additional R functions related to K-table analyses  ktabtools(in construction).
 [ktabtools](https://github.com/badozor/ktabtools)
 
-# **R package strtools**
+# **![](image/Rlogo.png){width=5%} package strtools**
 Tools for the analysis of STR fingerprinting data  strtools (in construction): **strtools**
 
-# **R package methyltools**
+# **![](image/Rlogo.png){width=5%} package methyltools**
 Tools for the analysis of DNA methylation data (Infinium 27k and 450k)  methyltools(alpha version).
 [methyltools](https://github.com/badozor/methyltools)
 
 
-# **R package mgmtstp27**
+# **![](image/Rlogo.png){width=5%} package mgmtstp27**
 Prediction of DNA methylation state of MGMT promoter based on HM-450K and HM-27K infinium platforms (from Illumina Company)
 
 **Warning!** The R package mgmtstp27 is still in development and the documentation need some corrections (e.g. language, etc ...).
@@ -66,7 +66,7 @@ Shiny application for R package mgmtstp27
  * **Bady P.**, Delorenzi M., Hegi M. (accepted) Sensitivity analysis of the MGMT-STP27 model and impact of genetic/epigenetic context to predict the MGMT methylation status in gliomas and other tumors, Journal of Molecular Diagnostics, 18 (3), 350-361. PubMed
 
 
-# **R package PBmisc**
+# **![](image/Rlogo.png){width=5%} package PBmisc**
 Contains many functions useful for statistical analyses, data manipulation and graphic representations (**in construction**): [PBmisc](https://github.com/badozor/PBmisc)
 
 
