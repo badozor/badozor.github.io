@@ -14,9 +14,6 @@ Tex document
 
 
 
-
-
-
 # **R package [mgmtstp27](https://github.com/badozor/mgmtstp27)**
 
  * Documentation of R package mgmtstp27: [mgmtstp27](https://github.com/badozor/mgmtstp27/blob/master/trunk/Rdoc/mgmtstp27.pdf)
