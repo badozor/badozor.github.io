@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-# **![](image/Rlogo.png){width=5%} packages**
+# **![](image/Rlogo.png){width=5%} software packages**
 
 
 ```{r echo=FALSE}
@@ -26,4 +26,9 @@ rpackages <- data.frame(
 ```{r results='asis',echo=FALSE}
 knitr::kable(rpackages)
 ```
+
+
+# **Other software packages**
+
+script python
 
