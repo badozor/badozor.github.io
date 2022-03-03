@@ -3,68 +3,69 @@ title: "Publications"
 output: html_document
 ---
 
-[1] Gayraud S., Statzner B., Bady P., Haybach A., Schöll F., Usseglio-Polatera P. and Bachi M. (2003). Invertebrate traits for the biomonitoring of European large rivers: an initial assessment of alternative metrics. Freshwater Biology, 48, 2045-2064. 
+[1] Gayraud S., Statzner B., **Bady P.**, Haybach A., Schöll F., Usseglio-Polatera P. and Bachi M. (2003). Invertebrate traits for the biomonitoring of European large rivers: an initial assessment of alternative metrics. Freshwater Biology, 48, 2045-2064. 
 
-[2] Bady P., Doledec S., Dumont B. and Fruget J.-F. (2004). Multiple co-inertia analysis: a tool for assessing synchrony in the temporal variability of aquatic communities. Comptes Rendus De L'Académie Des Sciences Serie III Sci ences De La Vie Life Sciences, 327, 29-36. 
+[2] **Bady P.**, Doledec S., Dumont B. and Fruget J.-F. (2004). Multiple co-inertia analysis: a tool for assessing synchrony in the temporal variability of aquatic communities. Comptes Rendus De L'Académie Des Sciences Serie III Sci ences De La Vie Life Sciences, 327, 29-36. 
 
-[3] Bady P., Dolédec S., Fesl C., Gayraud G., Bacchi M. and Schöll F. (2005). Use of invertebrate traits for the biomonitoring of European large rivers: the effects of sampling effort on genus richness and functional diversity. Freshwater Biology, 50,159-173. 
+[3] **Bady P.**, Dolédec S., Fesl C., Gayraud G., Bacchi M. and Schöll F. (2005). Use of invertebrate traits for the biomonitoring of European large rivers: the effects of sampling effort on genus richness and functional diversity. Freshwater Biology, 50,159-173. 
 
-[4] Statzner B., Bady P., Dolédec S. and Schöll F. (2005). Invertebrate traits for the biomonitoring of large European rivers: an initial assessment of trait patterns in least impacted river reaches Freshwater Biology, 50, 2136–2161. 
+[4] Statzner B., **Bady P.**, Dolédec S. and Schöll F. (2005). Invertebrate traits for the biomonitoring of large European rivers: an initial assessment of trait patterns in least impacted river reaches Freshwater Biology, 50, 2136–2161. 
 
-[5] Bady P. (2005) Modèles prédictifs de la relation entre la variabilité spatio-temporelle de l’habitat en grand cours d’eau et diversité des traits biologiques. Doctorat thesis, University of Sciences, Claude Bernard Lyon 1, pp. 246. 
+[5] **Bady P.** (2005) Modèles prédictifs de la relation entre la variabilité spatio-temporelle de l’habitat en grand cours d’eau et diversité des traits biologiques. Doctorat thesis, University of Sciences, Claude Bernard Lyon 1, pp. 246. 
 
-[6] Bigliardi-Qi M., Gaveriaux-Ruff C., Zhou H., Hell C., Bady P., Rufli T. and Bigliardi P.L. (2006) Deletion of delta opioid receptor in mice alters skin homeostasis and delays wound healing. Differentiation,74, 174-185. 
+[6] Bigliardi-Qi M., Gaveriaux-Ruff C., Zhou H., Hell C., **Bady P.**, Rufli T. and Bigliardi P.L. (2006) Deletion of delta opioid receptor in mice alters skin homeostasis and delays wound healing. Differentiation,74, 174-185. 
 
-[7] Bigliardi-Qi M., Gaveriaux-Ruff C., Pfaltz K., Bady P., Baumann T., Rufli T. , Kieffer B. and Bigliardi P. (2007) Deletion of m- and k-opioid receptors in mice changes epidermal hypertrophy, density of peripheral nerve endings and itch behavior. Journal of InvestigativeDermatology, 127, 1479-1488. 
+[7] Bigliardi-Qi M., Gaveriaux-Ruff C., Pfaltz K., **Bady P.**, Baumann T., Rufli T. , Kieffer B. and Bigliardi P. (2007) Deletion of m- and k-opioid receptors in mice changes epidermal hypertrophy, density of peripheral nerve endings and itch behavior. Journal of InvestigativeDermatology, 127, 1479-1488. 
 
-[8] Daufresne M., Bady P. and Fruget J.-F. (2007) Impacts of global changes and extreme hydro-climatic events on macroinvertebrate community structures in the French Rhône River. Oecologia, 151 (3), 544-559. 
+[8] Daufresne M., **Bady P.** and Fruget J.-F. (2007) Impacts of global changes and extreme hydro-climatic events on macroinvertebrate community structures in the French Rhône River. Oecologia, 151 (3), 544-559. 
 
-[9] Fleming E. A., Gmel G., Bady P., Yersin B., Givel J.-C., Brown D., Daeppen J.-B. (2007) At-Risk Drinking and Drug Use Among Patients Seeking Care in an Emergency Department. Journal of Studies on Alcohol and Drugs, 68 (1), 28-35. 
+[9] Fleming E. A., Gmel G., **Bady P.**, Yersin B., Givel J.-C., Brown D., Daeppen J.-B. (2007) At-Risk Drinking and Drug Use Among Patients Seeking Care in an Emergency Department. Journal of Studies on Alcohol and Drugs, 68 (1), 28-35. 
 
-[10] Daeppen J.B., Gaume J., Bady P., Yersin B., Calmes J.M., Givel J.C., Gmel G. (2007) Brief alcohol intervention does not influence alcohol use in trauma patients: a randomised controlled clinical trial. Addiction, 108 (8), 1224-1233. 
-[11] Lüthold S., Berneis K., Bady P. and Müller B. (2007) Effects of infectious disease on plasma lipids and their diagnostic significance in critical illness, European Journal of Clinical Investigation, 37,573-579. 
+[10] Daeppen J.B., Gaume J., **Bady P.**, Yersin B., Calmes J.M., Givel J.C., Gmel G. (2007) Brief alcohol intervention does not influence alcohol use in trauma patients: a randomised controlled clinical trial. Addiction, 108 (8), 1224-1233.
 
-[12] Mathez C.,Bangala Y., Bady P. and Zellweger J.-P.(2007) Active screening for pulmonary tuberculosis among immigrants by Chest x-ray at the Swiss border, Swiss Medical Weekly, 137, 649-654. 
+[11] Lüthold S., Berneis K., **Bady P.** and Müller B. (2007) Effects of infectious disease on plasma lipids and their diagnostic significance in critical illness, European Journal of Clinical Investigation, 37,573-579. 
 
-[13] Roulin D., Matter M., Bady P., Linéard D., Gugerli O., Boubaker A., Bron L. and Lejeune F. (2008) Pronostic value of sentinel node biopsy in 327 prospective melanoma patients from a single institution, European Journal of Surgical Oncology, 34 (6), 673-679. 
+[12] Mathez C.,Bangala Y., **Bady P.** and Zellweger J.-P.(2007) Active screening for pulmonary tuberculosis among immigrants by Chest x-ray at the Swiss border, Swiss Medical Weekly, 137, 649-654. 
 
-[14] Indino P., Lemarchand P., Bady P., de Torrenté A., Genné L. and Genné D. (2008) Prospective study about procalcitonin and other systemic infection markers in patients with leukocytosis, International Journal of Infectious Diseases, 12 (3), 319-324. 
+[13] Roulin D., Matter M., **Bady P.**, Linéard D., Gugerli O., Boubaker A., Bron L. and Lejeune F. (2008) Pronostic value of sentinel node biopsy in 327 prospective melanoma patients from a single institution, European Journal of Surgical Oncology, 34 (6), 673-679. 
 
-[15] Manuel O., Burnand B., Bady P., Kammerlander R., Vansantvoet M., Francioli P., Zanetti G. (2009) Impact of standardised review of intravenous antibiotic therapy 72 hours after prescription in two internal medicine wards, Journal of Hospital Infection, xx, 1-6. 
+[14] Indino P., Lemarchand P., **Bady P.**, de Torrenté A., Genné L. and Genné D. (2008) Prospective study about procalcitonin and other systemic infection markers in patients with leukocytosis, International Journal of Infectious Diseases, 12 (3), 319-324. 
 
-[16] Hegi M.E., Diserens A.-C., Bady P., Kamoshima Y., Kouwenhoven M.C., Delorenzi M., Lambiv  W.L., Hamou M.-F., Matter M.S., Koch A., Heppner F.L., Yonekawa Y., Merlo A., Frei K., Mariani L. and Hofer S. (2011) Pathway Analysis of Glioblastoma Tissue after Preoperative Treatment with the EGFR Tyrosine Kinase Inhibitor Gefitinib - A Phase II Trial, Molecular Cancer Therapeutics, 11, 154-164, DOI: 10.1158/1535-7163.MCT-11-0048. 
+[15] Manuel O., Burnand B., **Bady P.**, Kammerlander R., Vansantvoet M., Francioli P., Zanetti G. (2009) Impact of standardised review of intravenous antibiotic therapy 72 hours after prescription in two internal medicine wards, Journal of Hospital Infection, xx, 1-6. 
 
-[17] Logez M., Bady P. and Pont D (2012) Modelling ecological niche of fish species at the European scale: sensitivity to temperature and precipitations and associated uncertainties. Ecology of Freshwater Fish, 21 (2), 266-282. 
+[16] Hegi M.E., Diserens A.-C., **Bady P.**, Kamoshima Y., Kouwenhoven M.C., Delorenzi M., Lambiv  W.L., Hamou M.-F., Matter M.S., Koch A., Heppner F.L., Yonekawa Y., Merlo A., Frei K., Mariani L. and Hofer S. (2011) Pathway Analysis of Glioblastoma Tissue after Preoperative Treatment with the EGFR Tyrosine Kinase Inhibitor Gefitinib - A Phase II Trial, Molecular Cancer Therapeutics, 11, 154-164, DOI: 10.1158/1535-7163.MCT-11-0048. 
 
-[18] Hegi M.E., Janzer R.-C.,Lambiv W.L., Gorlia T., Kouwenhoven M.C.M., Hartmann C., von Deimling A., Martinet D., Besuchet Schmutz N., Diserens A.-C., Hamou M.-F., Bady P., Weller M., van den Bent M.J., P Mason W.P., Mirimanoff R.-O., Stupp R., Mokhtari K. and Wesseling P. (2012) Presence of an oligodendroglioma-like component in newly diagnosed glioblastoma identifies a pathogenetically heterogeneous subgroup and lacks prognostic value - Central pathology review of the EORTC_26981 / NCIC_CE.3 trial, Acta Neuropathologica, 123 (6), 841-852. 
+[17] Logez M., **Bady P.** and Pont D (2012) Modelling ecological niche of fish species at the European scale: sensitivity to temperature and precipitations and associated uncertainties. Ecology of Freshwater Fish, 21 (2), 266-282. 
 
-[19] Solana Gutiérrez J., Alonso González C., Bejarano Carrión M. D., García-de-Jalón Lastra D., García-de-Jalón González D., Bady P. Pont D. (2012) Modelizacion paneuropea de las comunidades piscicolas para la determinacion del estado ambiental de los rios: aplicación a la cuenca del Tajo, Cuad. Soc. Esp. Cienc. For. 34: 235-240. 
+[18] Hegi M.E., Janzer R.-C.,Lambiv W.L., Gorlia T., Kouwenhoven M.C.M., Hartmann C., von Deimling A., Martinet D., Besuchet Schmutz N., Diserens A.-C., Hamou M.-F., **Bady P.**, Weller M., van den Bent M.J., P Mason W.P., Mirimanoff R.-O., Stupp R., Mokhtari K. and Wesseling P. (2012) Presence of an oligodendroglioma-like component in newly diagnosed glioblastoma identifies a pathogenetically heterogeneous subgroup and lacks prognostic value - Central pathology review of the EORTC_26981 / NCIC_CE.3 trial, Acta Neuropathologica, 123 (6), 841-852. 
 
-[20] Bady P., Diserens A.-C., Castella V., Kalt S., Heinimann K., Hamou M.-F., Delorenzi M. and Hegi M.E. (2012) DNA Fingerprinting of Glioma Cell Lines and Considerations on Similarity Measurements, Neuro-Oncology, 14 (6), 701-711. 
+[19] Solana Gutiérrez J., Alonso González C., Bejarano Carrión M. D., García-de-Jalón Lastra D., García-de-Jalón González D., **Bady P.**, Pont D. (2012) Modelizacion paneuropea de las comunidades piscicolas para la determinacion del estado ambiental de los rios: aplicación a la cuenca del Tajo, Cuad. Soc. Esp. Cienc. For. 34: 235-240. 
 
-[21] Bady P., Sciuscio D., Diserens A.-C., Bloch J., van den Bent M.J., Marosi C., Dietrich P.-Y., Weller M., Mariani L., Heppner F.L., Macdonald D.R., Lacombe D., Stupp R., Delorenzi M. and Hegi M.E. (2012) MGMT methylation analysis of glioblastoma on the Infinium methylation BeadChip identifies two distinct CpG regions associated with gene silencing and outcome, yielding a prediction model for comparisons across datasets, tumor grades, and CIMPstatus, Acta Neuropathologica, 124 (4), 547-560. 
+[20] **Bady P.**, Diserens A.-C., Castella V., Kalt S., Heinimann K., Hamou M.-F., Delorenzi M. and Hegi M.E. (2012) DNA Fingerprinting of Glioma Cell Lines and Considerations on Similarity Measurements, Neuro-Oncology, 14 (6), 701-711. 
 
-[22] Logez M., Bady P., Melcher A. and Pont D. (2013) A continental-scale analysis of fish assemblage functional structure in European rivers, Ecography, 36 (1), 80-91. 
+[21] **Bady P.**, Sciuscio D., Diserens A.-C., Bloch J., van den Bent M.J., Marosi C., Dietrich P.-Y., Weller M., Mariani L., Heppner F.L., Macdonald D.R., Lacombe D., Stupp R., Delorenzi M. and Hegi M.E. (2012) MGMT methylation analysis of glioblastoma on the Infinium methylation BeadChip identifies two distinct CpG regions associated with gene silencing and outcome, yielding a prediction model for comparisons across datasets, tumor grades, and CIMPstatus, Acta Neuropathologica, 124 (4), 547-560. 
 
-[23] Kurscheid, S., Bady P., Sciuscio D., Samarzija I., Shay T., Vassallo I., van Criekinge W., Daniel R., van den Bent M., Marosi C., Weller M., Mason W., Domany E., Stupp R., Delorenzi M. and Hegi M. (2015). Chromosome 7 gain and DNA hypermethylation at the HOXA10 locus are associated with expression of a stem cell related HOX-signature in glioblastoma. Genome Biology, 16 (16). 
+[22] Logez M., **Bady P.**, Melcher A. and Pont D. (2013) A continental-scale analysis of fish assemblage functional structure in European rivers, Ecography, 36 (1), 80-91. 
 
-[24] Sathyan P., Zinn PO., Marisetty AL., Liu B., Kamal M.M., Singh SK., Bady P., Lu L., Wani KM., Veo BL., Gumin J., Kassem DH., Robinson F., Weng C., Baladandayuthapani V., Suki D., Colman H., Bhat KP., Sulman EP., Aldape K., Colen RR., Verhaak RGW., Lu Z., Fuller GN., Huang S., Lang FF., Sawaya R., Hegi M., Majumder S. (2015) Mir-21–Sox2 axis delineates glioblastoma subtypes with prognostic impact . J. Neuroscience (in press).
+[23] Kurscheid, S., **Bady P.**, Sciuscio D., Samarzija I., Shay T., Vassallo I., van Criekinge W., Daniel R., van den Bent M., Marosi C., Weller M., Mason W., Domany E., Stupp R., Delorenzi M. and Hegi M. (2015). Chromosome 7 gain and DNA hypermethylation at the HOXA10 locus are associated with expression of a stem cell related HOX-signature in glioblastoma. Genome Biology, 16 (16). 
 
-[25] De Meyer T., Bady P., Trooskens G., Kurscheid S., Bloch J., Kros J.M., Hainfellner  J.A., Stupp R., Delorenzi M., Hegi M. E., Van Criekinge W. (2015). Genome-wide DNA methylation detection by MethylCap-seq and Infinium HumanMethylation450 BeadChips: an independent large-scale comparison. Scientific Reports 5, 15375.
+[24] Sathyan P., Zinn PO., Marisetty AL., Liu B., Kamal M.M., Singh SK., **Bady P.**, Lu L., Wani KM., Veo BL., Gumin J., Kassem DH., Robinson F., Weng C., Baladandayuthapani V., Suki D., Colman H., Bhat KP., Sulman EP., Aldape K., Colen RR., Verhaak RGW., Lu Z., Fuller GN., Huang S., Lang FF., Sawaya R., Hegi M., Majumder S. (2015) Mir-21–Sox2 axis delineates glioblastoma subtypes with prognostic impact . J. Neuroscience (in press).
 
-[26] Bady P., Delorenzi M., Hegi M. (2016) Sensitivity analysis of the MGMT-STP27 model and impact of genetic/epigenetic context to predict the MGMT methylation status in gliomas and other tumors, Journal of Molecular Diagnostics, 18(3):350-361.
+[25] De Meyer T., **Bady P.**, Trooskens G., Kurscheid S., Bloch J., Kros J.M., Hainfellner  J.A., Stupp R., Delorenzi M., Hegi M. E., Van Criekinge W. (2015). Genome-wide DNA methylation detection by MethylCap-seq and Infinium HumanMethylation450 BeadChips: an independent large-scale comparison. Scientific Reports 5, 15375.
 
-[27] Weller, M., Nabors, L., Gorlia, T., Leske, H., Rushing, E., Bady, P., Hicking, C., Perry, J., Hong, Y., Roth, P., Wick, W., Goodman, S., Hegi, M., Picard, M., Moch, H., Straub, J., & Stupp, R. (2016). Cilengitide in newly diagnosed glioblastoma: biomarker expression and outcome. Oncotarget, 7(12), 15018-15032.
+[26] **Bady P.**, Delorenzi M., Hegi M. (2016) Sensitivity analysis of the MGMT-STP27 model and impact of genetic/epigenetic context to predict the MGMT methylation status in gliomas and other tumors, Journal of Molecular Diagnostics, 18(3):350-361.
 
-[28] Wick W, Gorlia T, Bady P, Platten M, van den Bent MJ, Taphoorn MJB, Steuve J, Brandes AA, Hamou M-F, Wick A, Kosch M, Weller M, Stupp R, Roth P, Golfinopoulos V, Frenel J-S, Campone M, Ricard D, Marosi C, Villa S, Weyerbrock A, Hopkins K, Homicsko K, Lhermitte B, Pesce GA and Hegi ME (2016) Phase II study of radiotherapy and temsirolimus versus radiochemotherapy with temozolomide in patients with newly diagnosed glioblastoma without MGMT promoter hypermethylation (EORTC 26082),American Association for Cancer Research,doi: 10.1158/1078-0432.CCR-15-3153.
+[27] Weller, M., Nabors, L., Gorlia, T., Leske, H., Rushing, E., **Bady, P.**, Hicking, C., Perry, J., Hong, Y., Roth, P., Wick, W., Goodman, S., Hegi, M., Picard, M., Moch, H., Straub, J., & Stupp, R. (2016). Cilengitide in newly diagnosed glioblastoma: biomarker expression and outcome. Oncotarget, 7(12), 15018-15032.
 
-[29] Oikonomaki M, Bady P and Hegi ME (2017) Ubiquitin Specific Peptidase 15 (USP15) suppresses glioblastoma cell growth via stabilization of HECTD1 E3 ligase attenuating WNT pathway activity, Oncotarget, 8(66):110490-110502.
+[28] Wick W, Gorlia T, **Bady P**, Platten M, van den Bent MJ, Taphoorn MJB, Steuve J, Brandes AA, Hamou M-F, Wick A, Kosch M, Weller M, Stupp R, Roth P, Golfinopoulos V, Frenel J-S, Campone M, Ricard D, Marosi C, Villa S, Weyerbrock A, Hopkins K, Homicsko K, Lhermitte B, Pesce GA and Hegi ME (2016) Phase II study of radiotherapy and temsirolimus versus radiochemotherapy with temozolomide in patients with newly diagnosed glioblastoma without MGMT promoter hypermethylation (EORTC 26082),American Association for Cancer Research,doi: 10.1158/1078-0432.CCR-15-3153.
 
-[30] Bady P, Kurscheid S, Delorenzi M, Gorlia T, van den Bent MJ, Hoang-Xuan K, Vauléon E, Gijtenbeek A, Enting R, Thiessen B, Chinot O, Dhermain F, Brandes AA, Reijneveld JC, Marosi C, Taphoorn MJB, Wick W, von Deimling A, French P, Stupp R, Baumert BG, Hegi ME (2018) The DNA methylome of DDR genes and benefit from RT or TMZ in IDH mutant low-grade glioma treated in EORTC 22033, Acta Neuropathologica, 135 (4), 601–615. 
+[29] Oikonomaki M, **Bady P** and Hegi ME (2017) Ubiquitin Specific Peptidase 15 (USP15) suppresses glioblastoma cell growth via stabilization of HECTD1 E3 ligase attenuating WNT pathway activity, Oncotarget, 8(66):110490-110502.
 
-[31] Gusyatiner O., Bady P., Pham MDT, Lei Y., Park J., Daniel R.T., Delorenzi M., Hegi M.E. (2021) BET inhibitors repress expression of Interferon-stimulated genes and synergize with HDAC inhibitors in glioblastoma.Neuro-oncology. https://doi.org/10.1093/neuonc/noab115
+[30] **Bady P**, Kurscheid S, Delorenzi M, Gorlia T, van den Bent MJ, Hoang-Xuan K, Vauléon E, Gijtenbeek A, Enting R, Thiessen B, Chinot O, Dhermain F, Brandes AA, Reijneveld JC, Marosi C, Taphoorn MJB, Wick W, von Deimling A, French P, Stupp R, Baumert BG, Hegi ME (2018) The DNA methylome of DDR genes and benefit from RT or TMZ in IDH mutant low-grade glioma treated in EORTC 22033, Acta Neuropathologica, 135 (4), 601–615. 
 
-[32] Cudalbu C., Bady P., Lai M., Xin L., Gusyatiner O., Hamou M.-F., Lepore M., Brouland J. P., Daniel Roy T., Hottinger A. F. et Hegi Monika E. (submitted). Metabolic and transcriptomic profiles of glioblastoma invasion revealed by comparisons between patients and corresponding orthotopic xenografts in mice. https://www.biorxiv.org/content/10.1101/2021.06.29.450408v1, doi: https://doi.org/10.1101/2021.06.29.450408
+[31] Gusyatiner O., **Bady P.**, Pham MDT, Lei Y., Park J., Daniel R.T., Delorenzi M., Hegi M.E. (2021) BET inhibitors repress expression of Interferon-stimulated genes and synergize with HDAC inhibitors in glioblastoma.Neuro-oncology. https://doi.org/10.1093/neuonc/noab115
+
+[32] Cudalbu C., **Bady P.**, Lai M., Xin L., Gusyatiner O., Hamou M.-F., Lepore M., Brouland J. P., Daniel Roy T., Hottinger A. F. et Hegi Monika E. (submitted). Metabolic and transcriptomic profiles of glioblastoma invasion revealed by comparisons between patients and corresponding orthotopic xenografts in mice. https://www.biorxiv.org/content/10.1101/2021.06.29.450408v1, doi: https://doi.org/10.1101/2021.06.29.450408
 
 
 
