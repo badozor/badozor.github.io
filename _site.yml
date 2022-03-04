@@ -11,6 +11,8 @@ navbar:
       href: ressources.html      
     - text: "Publications"
       href: publications.html
+    - text: "GitHub"
+      href: https://github.com/badozor
 output:
   html_document:
     theme: cosmo

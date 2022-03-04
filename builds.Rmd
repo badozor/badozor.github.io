@@ -13,12 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 ```{r echo=FALSE}
-rpackages <- data.frame(
-  names=c("modtools","plstools","ktabtools","strtools","methyltools","PBmisc","mgmtstp27"),
-  description=c("Additional tools for model assessment modtools","Partial Least Squares and Generalized Partial Least Squares models based on NIPALS algorithm plstools","Additional R functions related to K-table analyses  ktabtools","Tools for the analysis of STR fingerprinting data  strtools","Tools for the analysis of DNA methylation data (Infinium 27k and 450k)  methyltools","Contains many functions useful for statistical analyses, data manipulation and graphic representations","Prediction of DNA methylation state of MGMT promoter based on HM-450K and HM-27K infinium platforms (from Illumina Company)"),
-  
-  version=c("[modtools](https://github.com/badozor/modtools)","[plstools](https://github.com/badozor/plstools)","[ktabtools](https://github.com/badozor/ktabtools)",NA,"[methyltools](https://github.com/badozor/methyltools)","[PBmisc](https://github.com/badozor/PBmisc)","[mgmtstp27](https://github.com/badozor/mgmtstp27)"),
-  links=c("0.1","0.1","0.1","0.1","0.1","in construction","0.6-3"))
+rpackages <- read.csv("data/rpackages.csv",header=TRUE)
 ```
 
 

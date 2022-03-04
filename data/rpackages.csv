@@ -1,0 +1,8 @@
+"names","description","version","links"
+"modtools","Additional tools for model assessment modtools","[modtools](https://github.com/badozor/modtools)","0.1"
+"plstools","Partial Least Squares and Generalized Partial Least Squares models based on NIPALS algorithm plstools","[plstools](https://github.com/badozor/plstools)","0.1"
+"ktabtools","Additional R functions related to K-table analyses  ktabtools","[ktabtools](https://github.com/badozor/ktabtools)","0.1"
+"strtools","Tools for the analysis of STR fingerprinting data  strtools",NA,"0.1"
+"methyltools","Tools for the analysis of DNA methylation data (Infinium 27k and 450k)  methyltools","[methyltools](https://github.com/badozor/methyltools)","0.1"
+"PBmisc","Contains many functions useful for statistical analyses, data manipulation and graphic representations","[PBmisc](https://github.com/badozor/PBmisc)","in construction"
+"mgmtstp27","Prediction of DNA methylation state of MGMT promoter based on HM-450K and HM-27K infinium platforms (from Illumina Company)","[mgmtstp27](https://github.com/badozor/mgmtstp27)","0.6-3"
