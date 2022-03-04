@@ -4,16 +4,39 @@ output: html_document
 bibliography: data/pbady.bib 
 ---
 
+# **Articles**
 
 ```{r results='asis',echo=FALSE}
 badybib <- bibtex::read.bib(file="data/pbady.bib")
+# require(RefManageR)
+# badybib <- ReadBib(file="data/pbady.bib")
+# BibOptions(sorting = "none")
+# sort(badybib, sorting = "ynt")
+# badybib[bibtype="Article"]
+k <- 1
 for(i in 1:length(badybib)){
-  cat("\n",i,") ",sep="")
-  print(badybib[i])
+  if(attributes(unclass(badybib[i])[[1]])$bibtype=="Article"){
+    cat("\n",k,") ",sep="")
+      print(badybib[i])
   cat("\n\n")
+    k <- k+1
+  }
 }
 ```
 
 
+# **Other publications**
+
+```{r results='asis',echo=FALSE}
+k <- 1
+for(i in 1:length(badybib)){
+  if(attributes(unclass(badybib[i])[[1]])$bibtype!="Article"){
+    cat("\n",k,") ",sep="")
+      print(badybib[i])
+  cat("\n\n")
+    k <- k+1
+  }
+}
+```
 
 
