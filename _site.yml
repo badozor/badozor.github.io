@@ -4,14 +4,19 @@ navbar:
   title: "Pierre BADY"
   left:
     - text: "Home"
+      icon: fa-home
       href: index.html
     - text: "Builds"
+      icon: fa-gears
       href: builds.html      
     - text: "Ressources"
+      icon: fa-toolbox
       href: ressources.html      
     - text: "Publications"
+      icon: fa-file-pdf
       href: publications.html
     - text: "GitHub"
+      icon: fa-github
       href: https://github.com/badozor
 output:
   html_document:
