@@ -13,7 +13,7 @@ output: html_document
  * Neurosurgery, Lausanne University Hospital (CHUV), 1011 Lausanne, Switzerland
  * Neuroscience Research Center, Lausanne University Hospital, 1011 Lausanne, Switzerland
 
-# **Brief CV**
+# **Short CV**
 
  * Oct 2009-presently: Biostatistician/Biometrician/Data scientist, CHUV, Bioinformatics Core Facility, Swiss Institute of Bioinformatics (Lausanne, Switzerland)
 
