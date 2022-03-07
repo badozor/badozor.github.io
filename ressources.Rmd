@@ -5,7 +5,7 @@ output: html_document
 
 # **Graphical representation for multidimensional analyses**
 
-ggade4
+ggade4 (see R package PBmisc)
 
 
 # **Importation of pyrosequencing data with R and python**

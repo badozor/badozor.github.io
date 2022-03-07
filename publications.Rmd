@@ -7,6 +7,7 @@ output: html_document
 # **Articles**
 
 
+
 ```{r results='asis',echo=FALSE}
 badybib <- bibtex::read.bib(file="data/pbady.bib")
 # require(RefManageR)
@@ -18,8 +19,8 @@ k <- 1
 for(i in 1:length(badybib)){
   if(attributes(unclass(badybib[i])[[1]])$bibtype=="Article"){
     cat("\n",k,") ",sep="")
-      print(badybib[i])
-  cat("\n\n")
+    print(badybib[i])
+    cat("\n\n")
     k <- k+1
   }
 }
@@ -34,8 +35,8 @@ k <- 1
 for(i in 1:length(badybib)){
   if(attributes(unclass(badybib[i])[[1]])$bibtype!="Article"){
     cat("\n",k,") ",sep="")
-      print(badybib[i])
-  cat("\n\n")
+    print(badybib[i])
+    cat("\n\n")
     k <- k+1
   }
 }
