@@ -8,7 +8,7 @@ output: html_document
 ggade4 (see R package PBmisc)
 
 
-# **Importation of pyrosequencing data with R and python**
+# **Importation of pyrosequencing data with R and Python**
 
 Tex document
 

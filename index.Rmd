@@ -17,7 +17,7 @@ output: html_document
 
  * Oct 2009-presently: Biostatistician/Biometrician/Data scientist, CHUV, Bioinformatics Core Facility, Swiss Institute of Bioinformatics (Lausanne, Switzerland)
 
-   * Jan 2007-Sept 2009: Biostatistician/Biometrician, Agricultural and Environmental Engineering Research (CEMAGREF, Governmental Agency, Aix-En-Provence & Anthony, France)
+ * Jan 2007-Sept 2009: Biostatistician/Biometrician, Agricultural and Environmental Engineering Research (CEMAGREF, Governmental Agency, Aix-En-Provence & Anthony, France)
 
  * Aug 2005–Nov 2006: Biostatistician/Biometrician, Clinical Epidemiology Centrer (CEPIC, IUMSP, CHUV), University Hospital (Lausanne, Switzerland).
 
@@ -32,4 +32,5 @@ output: html_document
 ORCID author ID: http://orcid.org/0000-0003-1398-4689 
 
 # **Contact**
-pierre.bady (at) unil.ch
+<i class="fa fa-envelope"></i> pierre.bady (at) unil.ch
+
