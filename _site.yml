@@ -18,6 +18,9 @@ navbar:
     - text: "GitHub"
       icon: fa-github
       href: https://github.com/badozor
+    - text: "MISC"
+      icon: fa-github
+      href: misc.html
 output:
   html_document:
     theme: cosmo

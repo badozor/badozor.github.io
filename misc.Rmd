@@ -1,0 +1,24 @@
+---
+title: "Misc"
+output: html_document
+---
+
+
+ * *Le nain, qui jugeait quelquefois un peu trop vite, décida d'abord qu'il n'y avait personne sur Terre tant il la trouvait imparfaite. Il lui paraissait que des gens de bon sens ne voudraient pas y demeurer. "Eh bien ! dit Micromégas, ce ne sont peut-être pas non plus des gens de bon sens qui l'habitent* (Voltaire, Zadig et autres contes).
+
+ * *La violence est le dernier refuge de l'incompétence* (Salvor Hardin, maire de Terminus).
+
+ * *Le patriotisme est la vertu des imbéciles* (Oscar Wilde).
+
+ * *La statistique est la première des sciences inexactes.* (de Goncourt, Edmond et Jules 1822-1896, Journal).
+
+ * *...Impose ta chance, Serre ton bonheur, Va vers ton risque, ... À te regarder, ils s’habitueront.* (René Char).
+
+ * *Et toute cette conscience collective se satisfait-elle de m'utiliser comme une boite noire ? Puisque la boite noire fonctionne, quelle importance de savoir ce qu'il y a dedans ? Pas d'accord. Je n'ai aucun plaisir à jouer les boites noires. Moi, je veux savoir ce qu'il y a dedans.* (Isaac Asimov, terre et fondation, 1986, Denoel, p16).
+
+ * *Aucune souplesse...une société morte. Nous avons perdu de vue que les outils ont toujours besoin d'une main pour les guider...* (Appleseed, tome 2, Masamune Shirow).
+
+ * *An approximate answer to the right problem is worth a good deal more than an exact answer to an approximate problem.* (Tukey J. W.)
+
+ * *Essentially, all models are wrong, but some are useful* (Box G. E. P.)
+ 
