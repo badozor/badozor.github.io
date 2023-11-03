@@ -8,10 +8,11 @@ output: html_document
 
 # **Present Affiliations**
 
- * Translational bioinformatics and statistics (TBS), Swiss Institute for Bioinformatics, 1005 Lausanne, Switzerland
- * Bioinformatics Core Facility (BCF), Swiss Institute for Bioinformatics, 1005 Lausanne, Switzerland
  * Neurosurgery, Lausanne University Hospital (CHUV), 1011 Lausanne, Switzerland
  * Neuroscience Research Center, Lausanne University Hospital, 1011 Lausanne, Switzerland
+ * Translational Data Science (TDS), as Embedded biostatistician, Swiss Institute for Bioinformatics, 1005 Lausanne, Switzerland
+ * Bioinformatics Core Facility (BCF), as Embedded biostatistician, Swiss Institute for Bioinformatics, 1005 Lausanne, Switzerland
+
 
 # **Short CV**
 
