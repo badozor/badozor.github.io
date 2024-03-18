@@ -25,7 +25,11 @@ knitr::kable(rpackages)
 
 # **Other software packages**
 
-script python
+
+ * [pydudi](https://github.com/badozor/pydudi): Working notes related to the duality diagram programming with python and Rcpp.
+ 
+ * [efitools (version 1.2)](data/efitools-1.2.rar): Bady, P., D. Pont, M. Logez & J. Veslot (2009). Improvement and spatial extension of the European Fish Index Deliverable 4.1 : Report on the modelling of reference conditions and on the sensitivity of candidate metrics to anthropogenic pressures. Deliverable 4.2: Report on the final development and validation of the new European Fish Index and method. 6th Framework Programme Priority FP6-2005-SSP-5-A. N° 0044096. Final Report, 179pp. DOI: 10.13140/RG.2.2.35757.67042
+ 
 
 
 
