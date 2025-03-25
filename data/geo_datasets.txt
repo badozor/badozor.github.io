@@ -1,0 +1,81 @@
+
+1. Expression data from glioblastoma derived xenograft and original glioblastoma tumors
+(Submitter supplied) Amplification of the epidermal growth factor receptor (EGFR, A0 for non-amplified and A1 for amplified) gene is one of the most common oncogenic alterations in glioblastoma (45%) making it a prime target for therapy. However, small molecule inhibitors of the EGFR tyrosine kinase showed disappointing efficacy in clinical trials for glioblastoma. Here we report expression data for 33 samples including 6 GBM derived xenografts (3 controls and 3 treated by tyrosine kinase inhibitor gefitinib) and  27 glioblastoma tumors (11 controls and 16 treated by tyrosine kinase inhibitor gefitinib). more...
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL570 33 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE279nnn/GSE279426/
+Series		Accession: GSE279426	ID: 200279426
+
+2. Atypical cellular responses mediated by intracellular constitutive active TrkB (NTRK2) kinase domains and a solely intracellular NTRK2-fusion oncogene
+(Submitter supplied) We report the application of RNA-seq for molecular profiling of cultured, U87MG cells that stably express TrkB. Our data set is based on about 40 million unique reads per sample, in four independent mRNA preparations, for nine different testing conditions. U87MG is a standard human glioblastoma patient derived cell line. It serves as a cellular model for studying molecular characteristics of glioblastoma. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL30173 36 Samples
+FTP download: GEO (CSV) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE186nnn/GSE186207/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA772959
+Series		Accession: GSE186207	ID: 200186207
+
+3. BET protein inhibition sensitizes glioblastoma cells to temozolomide treatment by attenuating MGMT expression
+(Submitter supplied) Two cell lines were used for methylation profiling to investigate how BET protein inhibition sensitizes glioblastoma cells to temozolomide treatment by attenuating MGMT expression
+Organism:	Homo sapiens
+Type:		Methylation profiling by genome tiling array
+Platform: GPL21145 2 Samples
+FTP download: GEO (CSV, IDAT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE217nnn/GSE217515/
+Series		Accession: GSE217515	ID: 200217515
+
+4. DNA methylation-based age acceleration observed in IDH wild-type glioblastoma is associated with better outcome - including in elderly patients [GBMnordic]
+(Submitter supplied) GBM samples (FFPE tissue) obtained from patients treated in clinical trials according to pre-specified clinical criteria (Nordic, n=116).
+Organism:	Homo sapiens
+Type:		Methylation profiling by genome tiling array
+Platform: GPL13534 116 Samples
+FTP download: GEO (CSV, IDAT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE195nnn/GSE195684/
+Series		Accession: GSE195684	ID: 200195684
+
+5. DNA methylation-based age acceleration observed in IDH wild-type glioblastoma is associated with better outcome - including in elderly patients
+(Submitter supplied) GBM samples (FFPE tissue) obtained from patients treated in clinical trials according to pre-specified clinical criteria (EORTC 26981/NCIC CE.3 pooled with the Lausanne Pilot trial, n=156).
+Organism:	Homo sapiens
+Type:		Methylation profiling by genome tiling array
+Platform: GPL13534 156 Samples
+FTP download: GEO (CSV, IDAT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE195nnn/GSE195640/
+Series		Accession: GSE195640	ID: 200195640
+
+6. The methylome of DDR genes and benefit from RT or TMZ in IDH mutant low grade glioma treated in EORTC 22033
+(Submitter supplied) Treatment modalities for patients with low grade glioma (LGG) WHO grade II are controversial. Overall survival ranges from 2 to over 15 years depending on molecular and clinical factors. Hence, risk adjusted treatments are required to preserve cognitive function and quality of life. We aim at identifying mechanisms and associated molecular markers predicting benefit from radiotherapy (RT) or temozolomide (TMZ) on progression free survival in 120 isocitrate dehydrogenase 1 or 2 (IDHmt) mutant LGG treated in the randomized phase III trial EORTC 22033. more...
+Organism:	Homo sapiens
+Type:		Methylation profiling by array
+Platform: GPL13534 132 Samples
+FTP download: GEO (CSV, IDAT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE104nnn/GSE104293/
+Series		Accession: GSE104293	ID: 200104293
+
+7. Extent and Patterns of MGMT Promoter Methylation in Glioblastoma- and Respective Glioblastoma-Derived Spheres
+(Submitter supplied) Quantitative methylation-specific tests suggest that not all cells in a glioblastoma with detectable promoter methylation of the O6-methylguanine DNA methyltransferase (MGMT) gene carry a methylated MGMT allele. This observation may indicate cell subpopulations with distinct MGMT status, raising the question of the clinically relevant cutoff of MGMT methylation therapy. Epigenetic silencing of the MGMT gene by promoter methylation blunts repair of O6-methyl guanine and has been shown to be a predictive factor for benefit from alkylating agent therapy in glioblastoma. more...
+Organism:	Homo sapiens
+Type:		Genome variation profiling by array
+Platform: GPL5477 8 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE108nnn/GSE108098/
+Series		Accession: GSE108098	ID: 200108098
+
+8. Expression data from glioblastoma derived sphere lines, adherent cell lines and their original glioblastoma tumor
+(Submitter supplied) Glioblastoma (GBM) derived sphere lines and adherent cell lines are an important tool for research in basic and translational neuro-oncology. Documentation of their genetic identity has become a requirement for scientific journals and grant applications to exclude cross-contamination and misidentification that lead to misinterpretation of results. Here, we report expression data for 26 samples including 4 GBM derived sphere lines (4 x 3 replicates), 2 GBM derived sphere lines passaged through intracranial  transplantation (2x 1), 2 adherent GBM derived cell lines (2 + 2 x 3 replicates), 4 corresponding glioblastoma tumors and 2 non-tumor brain tissues.
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL570 26 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE104nnn/GSE104291/
+Series		Accession: GSE104291	ID: 200104291
+
+9. BAC aCGH profiling of 64 GBM (primary & recurrent)
+(Submitter supplied) aCGH was used to profile copy-number aberrations (CNA) in 64 glioblastoma specimen of patients treated within clinical trials. The data was used to identify changes in CNA which contribute to the aberrant of expression of HOX transcription factors. Our group had previously demonstrated that expression of HOX genes was associated with increased resistance to chemo-radiotherapy and worse outcome in GBM patients  Keywords: Disease state comparison
+Organism:	Homo sapiens
+Type:		Genome variation profiling by genome tiling array
+Platform: GPL4421 64 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE60nnn/GSE60507/
+Series		Accession: GSE60507	ID: 200060507
+
+10. Genome-wide DNA methylation profiling of 68 GBM (primary & recurrent), 4 glioma spheres and 5 non-tumor brain samples
+(Submitter supplied) DNA methylation analysis of 68 glioblastoma specimen of patients treated within clinical trials, 5 samples of normal brain tissue (non-tumor brain) and 4 tumor-derived glioma sphere lines. The data was used to identify changes in DNA methylation which contribute to the aberrant of expression of HOX transcription factors. Our group had previously demonstrated that expression of HOX genes was associated with increased resistance to chemo-radiotherapy and worse outcome in GBM patients  Keywords: Disease state comparison
+Organism:	Homo sapiens
+Type:		Methylation profiling by genome tiling array
+Platform: GPL13534 77 Samples
+FTP download: GEO (IDAT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE60nnn/GSE60274/
+Series		Accession: GSE60274	ID: 200060274
