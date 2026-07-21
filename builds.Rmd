@@ -27,10 +27,17 @@ knitr::kable(rpackages)
 
 # **![](image/Python-logo.png){width=5%} software packages**
 
+```{r echo=FALSE}
+pythonpackages <- read.csv("data/pythonpackages.csv",header=TRUE)
+```
+ 
 
- * [pydudi](https://github.com/badozor/pydudi): Working notes related to the duality diagram programming with python and Rcpp.
- 
- 
+
+```{r results='asis',echo=FALSE}
+knitr::kable(pythonpackages)
+```
+
+
 
 
 # **Other software packages**
