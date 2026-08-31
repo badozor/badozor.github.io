@@ -14,6 +14,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```{r echo=FALSE}
 geodatasets <- read.csv("data/geo_datasets.csv",header=TRUE,sep=";")
+addGeoLink <- function(x){
+  paste("[",x,"](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=",x,")",sep="")
+}
+geodatasets$Accession <- addGeoLink(geodatasets$Accession)
 ```
 
 
