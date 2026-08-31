@@ -1,0 +1,44 @@
+---
+title: "Datasets"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Gene Expression Omnibus
+
+<br>
+
+```{r echo=FALSE}
+geodatasets <- read.csv("data/geo_datasets.csv",header=TRUE,sep=";")
+```
+
+
+
+```{r results='asis',echo=FALSE}
+knitr::kable(geodatasets[,c("Title","Accession","Sample")])
+```
+
+<br>
+<br>
+
+
+
+
+# Zenodo
+<br>
+```{r echo=FALSE}
+zenododatasets <- read.csv("data/zenodo_datasets.csv",header=TRUE,sep=";")
+```
+
+
+
+```{r results='asis',echo=FALSE}
+knitr::kable(zenododatasets)
+```
+
+<br>
+<br>
