@@ -7,6 +7,11 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+```{r echo=FALSE}
+library(kableExtra)
+```
+
+
 
 # Gene Expression Omnibus
 
@@ -23,7 +28,8 @@ geodatasets$Accession <- addGeoLink(geodatasets$Accession)
 
 
 ```{r results='asis',echo=FALSE}
-knitr::kable(geodatasets[,c("Title","Accession","Sample")])
+knitr::kable(geodatasets[,c("Title","Type","Accession","Sample")], "html") %>%
+  kable_styling(full_width = TRUE)
 ```
 
 <br>
@@ -41,7 +47,8 @@ zenododatasets <- read.csv("data/zenodo_datasets.csv",header=TRUE,sep=";")
 
 
 ```{r results='asis',echo=FALSE}
-knitr::kable(zenododatasets)
+knitr::kable(zenododatasets[,c("Title","Type","DOI","Sample")], "html") %>%
+  kable_styling(full_width = TRUE)
 ```
 
 <br>

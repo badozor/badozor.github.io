@@ -32,6 +32,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<script src="site_libs/kePrint-0.0.1/kePrint.js"></script>
+<link href="site_libs/lightable-0.0.1/lightable.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-6.4.2/css/all.min.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-6.4.2/css/v4-shims.min.css" rel="stylesheet" />
 
@@ -315,82 +317,137 @@ $(document).ready(function () {
 <h1><strong><img src="image/Rlogo.png" style="width:5.0%" /> software
 packages</strong></h1>
 <p><br></p>
-<table style="width:100%;">
-<colgroup>
-<col width="7%" />
-<col width="75%" />
-<col width="7%" />
-<col width="9%" />
-</colgroup>
+<table class="table" style="margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
-<th align="left">name</th>
-<th align="left">description</th>
-<th align="left">link</th>
-<th align="left">version</th>
+<th style="text-align:left;">
+name
+</th>
+<th style="text-align:left;">
+description
+</th>
+<th style="text-align:left;">
+link
+</th>
+<th style="text-align:left;">
+version
+</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left">modtools</td>
-<td align="left">Additional tools for model assessment modtools</td>
-<td align="left"><a
-href="https://github.com/badozor/modtools">modtools</a></td>
-<td align="left">0.1</td>
+<td style="text-align:left;">
+modtools
+</td>
+<td style="text-align:left;">
+Additional tools for model assessment modtools
+</td>
+<td style="text-align:left;">
+<a href="https://github.com/badozor/modtools">modtools</a>
+</td>
+<td style="text-align:left;">
+0.1
+</td>
 </tr>
 <tr>
-<td align="left">plstools</td>
-<td align="left">Partial Least Squares and Generalized Partial Least
-Squares models based on NIPALS algorithm plstools</td>
-<td align="left"><a
-href="https://github.com/badozor/plstools">plstools</a></td>
-<td align="left">0.1</td>
+<td style="text-align:left;">
+plstools
+</td>
+<td style="text-align:left;">
+Partial Least Squares and Generalized Partial Least Squares models based
+on NIPALS algorithm plstools
+</td>
+<td style="text-align:left;">
+<a href="https://github.com/badozor/plstools">plstools</a>
+</td>
+<td style="text-align:left;">
+0.1
+</td>
 </tr>
 <tr>
-<td align="left">ktabtools</td>
-<td align="left">Additional R functions related to K-table analyses
-ktabtools</td>
-<td align="left"><a
-href="https://github.com/badozor/ktabtools">ktabtools</a></td>
-<td align="left">0.1</td>
+<td style="text-align:left;">
+ktabtools
+</td>
+<td style="text-align:left;">
+Additional R functions related to K-table analyses ktabtools
+</td>
+<td style="text-align:left;">
+<a href="https://github.com/badozor/ktabtools">ktabtools</a>
+</td>
+<td style="text-align:left;">
+0.1
+</td>
 </tr>
 <tr>
-<td align="left">strtools</td>
-<td align="left">Tools for the analysis of STR fingerprinting data
-strtools</td>
-<td align="left">NA</td>
-<td align="left">0.1</td>
+<td style="text-align:left;">
+strtools
+</td>
+<td style="text-align:left;">
+Tools for the analysis of STR fingerprinting data strtools
+</td>
+<td style="text-align:left;">
+NA
+</td>
+<td style="text-align:left;">
+0.1
+</td>
 </tr>
 <tr>
-<td align="left">methyltools</td>
-<td align="left">Tools for the analysis of DNA methylation data
-(Infinium 27k and 450k) methyltools</td>
-<td align="left"><a
-href="https://github.com/badozor/methyltools">methyltools</a></td>
-<td align="left">0.1</td>
+<td style="text-align:left;">
+methyltools
+</td>
+<td style="text-align:left;">
+Tools for the analysis of DNA methylation data (Infinium 27k and 450k)
+methyltools
+</td>
+<td style="text-align:left;">
+<a href="https://github.com/badozor/methyltools">methyltools</a>
+</td>
+<td style="text-align:left;">
+0.1
+</td>
 </tr>
 <tr>
-<td align="left">PBmisc</td>
-<td align="left">Contains many functions useful for statistical
-analyses, data manipulation and graphic representations</td>
-<td align="left"><a
-href="https://github.com/badozor/PBmisc">PBmisc</a></td>
-<td align="left">in construction</td>
+<td style="text-align:left;">
+PBmisc
+</td>
+<td style="text-align:left;">
+Contains many functions useful for statistical analyses, data
+manipulation and graphic representations
+</td>
+<td style="text-align:left;">
+<a href="https://github.com/badozor/PBmisc">PBmisc</a>
+</td>
+<td style="text-align:left;">
+in construction
+</td>
 </tr>
 <tr>
-<td align="left">mgmtstp27</td>
-<td align="left">Prediction of DNA methylation state of MGMT promoter
-based on HM-450K and HM-27K infinium platforms (from Illumina
-Company)</td>
-<td align="left"><a
-href="https://github.com/badozor/mgmtstp27">mgmtstp27</a></td>
-<td align="left">0.6-3</td>
+<td style="text-align:left;">
+mgmtstp27
+</td>
+<td style="text-align:left;">
+Prediction of DNA methylation state of MGMT promoter based on HM-450K
+and HM-27K infinium platforms (from Illumina Company)
+</td>
+<td style="text-align:left;">
+<a href="https://github.com/badozor/mgmtstp27">mgmtstp27</a>
+</td>
+<td style="text-align:left;">
+0.6-3
+</td>
 </tr>
 <tr>
-<td align="left">zzz</td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left">0.1</td>
+<td style="text-align:left;">
+zzz
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+0.1
+</td>
 </tr>
 </tbody>
 </table>
@@ -400,35 +457,49 @@ href="https://github.com/badozor/mgmtstp27">mgmtstp27</a></td>
 <h1><strong><img src="image/Python-logo.png" style="width:5.0%" />
 software packages</strong></h1>
 <p><br></p>
-<table>
-<colgroup>
-<col width="8%" />
-<col width="71%" />
-<col width="8%" />
-<col width="10%" />
-</colgroup>
+<table class="table" style="margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
-<th align="left">name</th>
-<th align="left">description</th>
-<th align="left">link</th>
-<th align="left">version</th>
+<th style="text-align:left;">
+name
+</th>
+<th style="text-align:left;">
+description
+</th>
+<th style="text-align:left;">
+link
+</th>
+<th style="text-align:left;">
+version
+</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left">pydudi</td>
-<td align="left">Notes and python package related to the duality
-diagram</td>
-<td align="left"><a
-href="https://github.com/badozor/pydudi">pydudi</a></td>
-<td align="left">1.0.0</td>
+<td style="text-align:left;">
+pydudi
+</td>
+<td style="text-align:left;">
+Notes and python package related to the duality diagram
+</td>
+<td style="text-align:left;">
+<a href="https://github.com/badozor/pydudi">pydudi</a>
+</td>
+<td style="text-align:left;">
+1.0.0
+</td>
 </tr>
 <tr>
-<td align="left">zzz</td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left">1.0.0</td>
+<td style="text-align:left;">
+zzz
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+1.0.0
+</td>
 </tr>
 </tbody>
 </table>

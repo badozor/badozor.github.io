@@ -8,6 +8,9 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+```{r echo=FALSE}
+library(kableExtra)
+```
 
 # **![](image/Rlogo.png){width=5%} software packages**
 <br>
@@ -19,7 +22,8 @@ rpackages <- read.csv("data/rpackages.csv",header=TRUE)
 
 
 ```{r results='asis',echo=FALSE}
-knitr::kable(rpackages)
+knitr::kable(rpackages, "html") %>%
+  kable_styling(full_width = TRUE)
 ```
 
 <br>
@@ -36,7 +40,8 @@ pythonpackages <- read.csv("data/pythonpackages.csv",header=TRUE)
 
 
 ```{r results='asis',echo=FALSE}
-knitr::kable(pythonpackages)
+knitr::kable(pythonpackages, "html") %>%
+  kable_styling(full_width = TRUE)
 ```
 
 <br>

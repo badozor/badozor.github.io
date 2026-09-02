@@ -1,2 +1,3 @@
-Title;DOI;Sample
-Molecular profiles of IDHmt low-grade astrocytomas and oligodendrogliomas (low grade glioma, LGG);https://doi.org/10.5281/zenodo.22207726;96
+Title;DOI;Type;Sample
+Molecular profiles of IDHmt low-grade astrocytomas and oligodendrogliomas (low grade glioma, LGG);https://doi.org/10.5281/zenodo.22207726;RNA-seq;96
+Transcriptomic profiles of brain tumors (glioblastoma, GBM) and corresponding orthotopic xenografts in mice;https://doi.org/10.5281/zenodo.22228513;RNA-seq;47

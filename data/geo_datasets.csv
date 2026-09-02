@@ -1,18 +1,17 @@
-Accession;Title;Sample
-GSE329528;Leveraging epigenetic vulnerabilities of the stem cell related HOX signature in glioblastoma [ATAC-seq];2
-GSE329530;Leveraging epigenetic vulnerabilities of the stem cell related HOX signature in glioblastoma [ChIP-seq];10
-GSE329531;Leveraging epigenetic vulnerabilities of the stem cell related HOX signature in glioblastoma [RNA-seq];24
-GSE329532;Leveraging epigenetic vulnerabilities of the stem cell related HOX signature in glioblastoma [Micro-C];6
-GSE329543;BET inhibitors repress expression of interferon-stimulated genes and synergize with HDAC inhibitors in glioblastoma [ChIP-seq];60
-GSE329544;BET inhibitors repress expression of interferon-stimulated genes and synergize with HDAC inhibitors in glioblastoma [RNA-seq];12
-GSE329546;BET inhibitors repress expression of interferon-stimulated genes and synergize with HDAC inhibitors in glioblastoma [RNA-seq II];28
-GSE344586;Metabolic and transcriptomic profiles of glioblastoma invasion revealed by comparisons between patients and corresponding orthotopic xenografts in mice;39
-GSE279950;Clinical value of MGMT promoter methylation score in IDHmt low-grade glioma for predicting benefit from TMZ treatment;109
-GSE279426;Expression data from glioblastoma derived xenograft and original glioblastoma tumors;33
-GSE217515;BET protein inhibition sensitizes glioblastoma cells to temozolomide treatment by attenuating MGMT expression;2
-GSE195640;DNA methylation-based age acceleration observed in IDH wild-type glioblastoma is associated with better outcome - including in elderly patients;156
-GSE195684;DNA methylation-based age acceleration observed in IDH wild-type glioblastoma is associated with better outcome - including in elderly patients [GBMnordic];116
-GSE104293;The methylome of DDR genes and benefit from RT or TMZ in IDH mutant low grade glioma treated in EORTC 22033;132
-GSE108098;Extent and Patterns of MGMT Promoter Methylation in Glioblastoma- and Respective Glioblastoma-Derived Spheres;8
-GSE104291;Expression data from glioblastoma derived sphere lines, adherent cell lines and their original glioblastoma tumor;26
-
+Accession;Title;Type;Sample
+GSE329528;Leveraging epigenetic vulnerabilities of the stem cell related HOX signature in glioblastoma [ATAC-seq];ATAC-seq;2
+GSE329530;Leveraging epigenetic vulnerabilities of the stem cell related HOX signature in glioblastoma [ChIP-seq];ChIP-seq;10
+GSE329531;Leveraging epigenetic vulnerabilities of the stem cell related HOX signature in glioblastoma [RNA-seq];RNA-seq;24
+GSE329532;Leveraging epigenetic vulnerabilities of the stem cell related HOX signature in glioblastoma [Micro-C];Micro-C;6
+GSE329543;BET inhibitors repress expression of interferon-stimulated genes and synergize with HDAC inhibitors in glioblastoma [ChIP-seq];ChIP-seq;60
+GSE329544;BET inhibitors repress expression of interferon-stimulated genes and synergize with HDAC inhibitors in glioblastoma [RNA-seq];RNA-seq;12
+GSE329546;BET inhibitors repress expression of interferon-stimulated genes and synergize with HDAC inhibitors in glioblastoma [RNA-seq II];RNA-seq;28
+GSE344586;Metabolic and transcriptomic profiles of glioblastoma invasion revealed by comparisons between patients and corresponding orthotopic xenografts in mice;RNA-seq;39
+GSE279950;Clinical value of MGMT promoter methylation score in IDHmt low-grade glioma for predicting benefit from TMZ treatment;EPIC v1;109
+GSE279426;Expression data from glioblastoma derived xenograft and original glioblastoma tumors;Affymetrix U133 plus 2.0;33
+GSE217515;BET protein inhibition sensitizes glioblastoma cells to temozolomide treatment by attenuating MGMT expression;EPIC v1;2
+GSE195640;DNA methylation-based age acceleration observed in IDH wild-type glioblastoma is associated with better outcome - including in elderly patients;HM-450k;156
+GSE195684;DNA methylation-based age acceleration observed in IDH wild-type glioblastoma is associated with better outcome - including in elderly patients [GBMnordic];HM-450k;116
+GSE104293;The methylome of DDR genes and benefit from RT or TMZ in IDH mutant low grade glioma treated in EORTC 22033;HM-450k;132
+GSE108098;Extent and Patterns of MGMT Promoter Methylation in Glioblastoma- and Respective Glioblastoma-Derived Spheres;Agilent CGH;8
+GSE104291;Expression data from glioblastoma derived sphere lines, adherent cell lines and their original glioblastoma tumor;Affymetrix U133 plus 2.0;26
