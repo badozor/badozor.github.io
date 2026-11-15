@@ -8,6 +8,10 @@ output: html_document
 
 # **Present Affiliations**
 
+ * Embedded biostatistician/bioinformatician, Swiss Institute for Bioinformatics, 1005 Lausanne, Switzerland
+
+# **Previous Affiliations**
+
  * Neurosurgery, Lausanne University Hospital (CHUV), 1011 Lausanne, Switzerland
  * Neuroscience Research Center, Lausanne University Hospital, 1011 Lausanne, Switzerland
  * Translational Data Science (TDS), as Embedded biostatistician, Swiss Institute for Bioinformatics, 1005 Lausanne, Switzerland
