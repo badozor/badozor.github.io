@@ -19,7 +19,7 @@ output: html_document
 
 # **Short CV**
 
- * Oct 2009-presently: Biostatistician/Biometrician/Data scientist, CHUV, Bioinformatics Core Facility, Swiss Institute of Bioinformatics (Lausanne, Switzerland)
+ * Oct 2009-Sep 2026: Biostatistician/Biometrician/Data scientist, CHUV, Bioinformatics Core Facility, Swiss Institute of Bioinformatics (Lausanne, Switzerland)
 
  * Jan 2007-Sept 2009: Biostatistician/Biometrician, Agricultural and Environmental Engineering Research (CEMAGREF, Governmental Agency, Aix-En-Provence & Anthony, France)
 
