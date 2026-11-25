@@ -8,4 +8,5 @@
 "mgmtstp27","Prediction of DNA methylation state of MGMT promoter based on HM-450K and HM-27K infinium platforms (from Illumina Company)","[mgmtstp27](https://github.com/badozor/mgmtstp27)","0.8"
 "biomarkfinder","Biomarker discovery pipeline based on R and python (classification, continuous and survival outcomes, foundation models such as Geneformer)","[biomarkfinder](https://github.com/badozor/biomarkfinder)","in construction"
 "mahab","Species distribution mapping based on the Mahalanobis distance computed from environmental variables at presence sites","[mahab](https://github.com/badozor/mahab)","0.4"
+"skeltools","Creates a standard project structure (data, archive, tmp, src) for R analyses, with optional layers for Python and C/C++","[skeltools](https://github.com/badozor/skeltools)","0.1.0"
 "zzz","  ","  ","0.1"
